@@ -1,3 +1,3 @@
-# python-opencv
+# python exercises for practicing
 
-Some opencv examples
+Some python examples
